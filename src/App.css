@@ -1,8 +1,9 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
+  max-width: 1280px; /* 全体の最大幅を制限するために維持します */
+  width: 100%; /* この行を追加して、#root が利用可能な幅を使うようにします */
+  margin: 0 auto; /* body がフレックスでない場合に中央揃えするのに役立ちますが、フレックスでも問題ありません */
   padding: 2rem;
-  text-align: center;
+  text-align: center; /* #root 内のインラインコンテンツを中央揃えにします */
 }
 
 .logo {
