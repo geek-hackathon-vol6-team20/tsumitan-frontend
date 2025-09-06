@@ -1,3 +1,7 @@
+> [!WARNING]
+> このプロダクトは既にデプロイは維持されていません。
+> 動作を見たい方は[こちら](https://github.com/muhi111/tsumitan)からご確認ください。
+
 <div align="center">
   <img src="./public/icons/icon-512x512.png" alt="積み単ロゴ" width="120" height="120">
 </div>
@@ -39,7 +43,6 @@
 
 ## 関連リポジトリ・デプロイ先
 
-- **デプロイ先**: [tsumitan.me](https://tsumitan.me)
 - **バックエンドリポジトリ**: https://github.com/geek-hackathon-vol6-team20/tsumitan-backend
 
 ## セットアップ
